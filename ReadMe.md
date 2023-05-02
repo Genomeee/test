@@ -20,6 +20,6 @@ returns result with matching contacts
 <br><b>Steps to run project:</b>
 <ol>
     <li>go to the root project folder and run <b><i>docker-compose up</i></b> to create docker image</li>
-    <li>go to application.properties file and add your google client id and secret id/li>
+    <li>go to application.properties file and add your google client id and secret id, for this you need to create project and credentials via google dev console https://console.cloud.google.com/ </li>
     <li>start TestApplication</li>
 </ol>
